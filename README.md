@@ -34,6 +34,7 @@ and submit transactions using simple natural language prompts
    ```
    THIRDWEB_CLIENT_ID=your_client_id_here
    THIRDWEB_SECRET_KEY=your_secret_key_here
+   PRIVATE_KEY=your_evm_wallet_private_key_here
    ```
 
 4. **Install dependencies**
